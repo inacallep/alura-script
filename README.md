@@ -4,7 +4,8 @@ Esse repositório é basicamente um fork do [Alura-Destroyer](https://github.com
 só que ao invés de ser usado com tamper, eu fiz um bookmarklet pra rodar o script.
 ## Instalação
 ```js
-javascript:fetch("https://res.cloudinary.com/dctxcezsd/raw/upload/v1745012111/saladofuturo.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://raw.githubusercontent.com/inacallep/alura-script/refs/heads/main/alura-killer.js").then(t=>t.text()).then(eval);
+```
 ## **No PC**
 1. Clique com o botão direito do mouse na **barra de favoritos** do navegador.
 2. Selecione a opção **"Adicionar página"** ou **"Adicionar favorito"**.
