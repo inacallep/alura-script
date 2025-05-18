@@ -21,5 +21,13 @@ javascript:fetch("https://raw.githubusercontent.com/inacallep/alura-script/refs/
    - **URL/Endereço:** Cole o código acima.
 
 ## Como usar?
-Numa tela semelhante a essa
+1. Numa tela semelhante a essa, rode o bookmarklet
 <img src="screenshot.png"></img>
+2. Clique em "Ativar Script"
+<img src="screenshot2.png"></img>
+3. Clique em "Continuar Unidade"(Botão Verde)
+<img src="screenshot3.png"></img>
+4. Deixe ele realizar as lições
+<img src="screenshot4.png"></img>
+# Créditos
+- [@marcos10pc](https://github.com/marcos10pc)
